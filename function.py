@@ -147,3 +147,20 @@
 # print(sum_all(1,2,3,4,5))
 # print(sum_all(1,2,3,4,5,6,7,8))
 
+
+# #q5
+# def mystery_func(x, y):
+#     result = 0
+#     for i in range(x):
+#         for j in range(y):
+#             if i == j:
+#                 result += i
+#             else:
+#                 result += j
+#     return result
+
+# print(mystery_func(3, 4))
+
+
+
+
